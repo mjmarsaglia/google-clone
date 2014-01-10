@@ -1,0 +1,101 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+
+
+#header ul {
+  list-style:none;
+  float:right;
+}
+
+body {
+  background-color:white;
+}
+  
+#header li {
+    display:inline;
+    padding:5px;
+    
+    }
+   
+
+.image {
+  
+  width:269px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:10px;
+  display:block;
+  position:relative;
+  margin-top:100px;
+}
+
+
+#logo {
+  height:95px;
+  width:269px;
+}
+  
+#searchbar {
+  width:400px;
+}
+
+.search {
+ text-align:center;  
+ 
+}
+
+.buttons {
+  text-align:center;
+  margin-top:30px;  
+}
+#button1 {
+  background-color:gray;
+}
+
+#footer {
+  margin-top:30px;
+  margin-right:1px;
+  background-color:gray;
+  
+}
+
+#footer ul{
+
+
+}
+  #left{
+   clear:both;
+  display:inline;  
+  }
+ #right
+  {
+   clear:both;
+    float:right;
+    display:inline;
+   
+  }
+ 
+ #new {
+   color:red;
+ }
+ 
+ #right ul {
+    list-style: none;
+ }
+   
+   #right li { 
+      display:inline;
+     
+      }
+ 
+ #left ul{
+   display:inline;
+   list-style:none;
+ }
+ 
+    #left li {
+      display:inline;
+    }
+ 
